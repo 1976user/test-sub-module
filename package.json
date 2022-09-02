@@ -1,0 +1,14 @@
+{
+  "name": "testsubmodule",
+  "version": "1.0.0",
+  "description": "Test repo to be used as submodule.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ramda": "^0.28.0"
+  }
+}
