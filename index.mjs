@@ -1,1 +1,1 @@
-export { sum, avg } from './sum.mjs';
+export { sum, avg } from './src/sum.mjs';
